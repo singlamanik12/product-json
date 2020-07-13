@@ -1,0 +1,38 @@
+{
+  "companyName": "Weird Deals",
+  "headOffice": "Barrie, Ontario",
+  "established": 2001,
+  "active": true,
+  "topDeals": [
+    {
+      "name": "A pre-fabricated home in a shipping container",
+      "price": 36000,
+      "description": "Who says you have to pay exorbitant broker fees to find the home of your dreams? You can make your dreams of homeownership come true as easily as you'd buy a bottle of dish soap, thanks to this storage-container-turned-house, available for a cool $36K. And before you sign off on a mortgage, brush up on these 30 Secrets Every First-Time Homebuyers Need to Know.",
+      "image": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/tiny-home.jpg?w=1024&ssl=1"
+    },
+    {
+      "name": "1,500 live ladybugs",
+      "price": 3.05,
+      "description": "Who says you can't buy anything for under $10 anymore? In fact, Amazon shoppers can buy 1,500 crawling, flying somethings for the bargain price of a latte.",
+      "image": "https://i1.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/live-ladybugs.jpg?w=1024&ssl=1"
+    },
+    {
+      "name": "Uranium ore",
+      "price": 39.95,
+      "description": "While this small amount of uranium ore is pretty low on the radioactivity meter, it's pretty weird that you can buy it from the same site where you get your gym socks. And for more possessions to ditch, discover these 30 Home Decorations No One Over 30 Should Own.",
+      "image": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/uranium-ore.jpg?w=1024&ssl=1"
+    },
+    {
+      "name": "A home mushroom farm",
+      "price": 22.85,
+      "description": "Now you can grow your own fungus right at home—and not in between your toes!",
+      "image": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/81WCBll2QvL._SL1500_.jpg?w=745&ssl=1"
+    },
+    {
+      "name": "A cat butt tissue holder",
+      "price": 34.94,
+      "description": "This seems like the nicest thing to be plucked from a cat's rear since, well, ever. And who doesn't like to be stared down with peering, inquisitive eyes each time they need to blow their nose?",
+      "image": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/71QugMJmYJL._SL1500_.jpg?resize=1024%2C1024&ssl=1"
+    }
+  ]
+}
